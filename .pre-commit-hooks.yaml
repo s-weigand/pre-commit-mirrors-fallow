@@ -1,0 +1,10 @@
+-   id: fallow
+    name: fallow
+    description: ''
+    entry: fallow
+    language: node
+    'types_or': [javascript, ts, tsx]
+    args: []
+    require_serial: false
+    additional_dependencies: ["fallow@0.1.0"]
+    minimum_pre_commit_version: '2.9.2'
