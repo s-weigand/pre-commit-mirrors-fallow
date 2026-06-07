@@ -6,5 +6,5 @@
     'types_or': [javascript, ts, tsx]
     args: []
     require_serial: true
-    additional_dependencies: ["fallow@2.63.0"]
+    additional_dependencies: ["fallow@2.64.0"]
     minimum_pre_commit_version: '2.9.2'
